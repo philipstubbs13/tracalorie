@@ -5,6 +5,7 @@ import "./css/style.css";
 import { Meal, Workout } from "./Item";
 import CalorieTracker from "./Tracker";
 
+// test
 class App {
   constructor() {
     this._tracker = new CalorieTracker();
